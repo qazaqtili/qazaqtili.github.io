@@ -16,6 +16,7 @@ A version for the new Latin alphabet will be presented soon.
 Версия для нового латинского алфавита будет представлена далее.
 
 #### Сәрсен Аманжолов ұсынған кирил әліпбиі  
+
 № | Әріп | Аты | Сәйкес сөз
 :---: | :---: | :---: | :---
 1	 | 	А	 | 	а	 | 	Азамат
@@ -62,4 +63,4 @@ A version for the new Latin alphabet will be presented soon.
 42	 | 	Я	 | 	йа	 | 	Аяндағы "йа"
 
 <https://qazaqtili.github.io>  
-2030
+2040
