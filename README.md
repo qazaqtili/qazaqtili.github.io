@@ -62,5 +62,43 @@ A version for the new Latin alphabet will be presented soon.
 41	 | 	Ю	 | 	йу	 | 	аюдағы "йу"
 42	 | 	Я	 | 	йа	 | 	Аяндағы "йа"
 
+
+
+#### Жаңа латын әліпбиі (2021)
+
+№ | Латын | Кирил | Сәйкес сөз
+:---: | :---: | :---: | :---
+1	 | 	A	 | 	А	 | 	Azamat
+2	 | 	Ä	 | 	Ә	 | 	Ädıl
+3	 | 	B	 | 	Б	 | 	Baqytjan
+4	 | 	D	 | 	Д	 | 	Dinara
+5	 | 	E	 | 	Е	 | 	Erjan
+6	 | 	F	 | 	Ф	 | 	Fatima
+7	 | 	G	 | 	Г	 | 	Gülmira
+8	 | 	Ğ	 | 	Ғ	 | 	Ğaliya
+9	 | 	H	 | 	Х, Һ	 | 	Hasan
+10	 | 	I ı	 | 	І	 | 	Iñkär
+11	 | 	İ i	 | 	Й, И	 | 	İbrahim
+12	 | 	J	 | 	Ж	 | 	Jandos
+13	 | 	K	 | 	К	 | 	Kämşat
+14	 | 	L	 | 	Л	 | 	Leila
+15	 | 	M	 | 	М	 | 	Marat
+16	 | 	N	 | 	Н	 | 	Nūrlan
+17	 | 	Ñ	 | 	Ң	 | 	Şyñğyzdağy "eñ"
+18	 | 	O	 | 	О	 | 	Oljas
+19	 | 	Ö	 | 	Ө	 | 	Örken
+20	 | 	P	 | 	П	 | 	Perizat
+21	 | 	Q	 | 	Қ	 | 	Qanat
+22	 | 	R	 | 	Р	 | 	Rüstem
+23	 | 	S	 | 	С	 | 	Sultan
+24	 | 	Ş	 | 	Ш	 | 	Şerhan
+25	 | 	T	 | 	Т	 | 	Talğat
+26	 | 	U	 | 	У	 | 	Uälihan
+27	 | 	Ū	 | 	Ұ	 | 	Ūlan
+28	 | 	Ü	 | 	Ү	 | 	Üsen
+29	 | 	V	 | 	В	 | 	Viktor
+30	 | 	Y	 | 	Ы	 | 	Ybyrai
+31	 | 	Z	 | 	З	 | 	Zamanbek
+
 <https://qazaqtili.github.io>  
-2040
+2050
