@@ -100,5 +100,14 @@ A version for the new Latin alphabet will be presented soon.
 30	 | 	Y	 | 	Ы	 | 	Ybyrai
 31	 | 	Z	 | 	З	 | 	Zamanbek
 
+#### Дереккөздер / References / Источники
+Wikipedia <https://en.wikipedia.org/wiki/Kazakh_alphabets>  
+  
+"Kazakhstan Presents New Latin Alphabet, Plans Gradual Transition Through 2031". Astana Times. February 2021  
+<https://astanatimes.com/2021/02/kazakhstan-presents-new-latin-alphabet-plans-gradual-transition-through-2031/>  
+  
+Мусаев Кенесбай Мусаевич Казахский язык: учебник / К.М. Мусаев ; Институт стран Азии и Африки МГУ имени М.В.Ломоносова. - Москва : Восточная литература, 2008. - 367 с. - ISBN 978-5-02-036363-2  
+  
+---  
 <https://qazaqtili.github.io>  
-2050
+202305222131
