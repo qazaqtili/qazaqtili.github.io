@@ -61,5 +61,5 @@ A version for the new Latin alphabet will be presented soon.
 41	 | 	Ю	 | 	йу	 | 	аюдағы "йу"
 42	 | 	Я	 | 	йа	 | 	Аяндағы "йа"
 
-  
 <https://qazaqtili.github.io>
+2014
