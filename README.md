@@ -1,17 +1,15 @@
-### <https://qazaqtili.github.io>
-
 ## Қазақ фонетикалық радиосы телефонының дыбыс жазуға арналған әріп-сөз әліпбиі
 
 Кейде басқа адамға ауызша сөйлесуде, телефонда немесе радиода сөздің дұрыс жазылуын айту маңызды.
-Осы мақсатта әртүрлі тілдерде арнайы әліпбилер құрастырылған. Мысалы, ICAO халықаралық фонетикалық әліпбиі (Alpha, Bravo, Charlie...) немесе Ресей авиациялық радио алфавиті (Анна, Борис, Василий...)
+Осы мақсатта әртүрлі тілдерде арнайы әліпбилер құрастырылған. Мысалы, ICAO халықаралық фонетикалық әліпбиі (Alpha, Bravo, Charlie...) немесе Ресей авиациялық радио алфавиті (Анна, Борис, Василий...).
 Бұл мақалада қазақ тіліне осындай әліпби ұсынылып отыр. Мүмкіндігінше, әріптер жалпы жалқы есіммен аталады.
 
 Sometimes it is important to tell the other person the correct spelling of a word in a spoken conversation, on the phone or on the radio.
-For this purpose, special alphabets have been created for different languages. For example, the ICAO international phonetic alphabet (Alpha, Bravo, Charlie...) or the Russian aviation radio alphabet (Анна, Борис, Василий...)
+For this purpose, special alphabets have been created for different languages. For example, the ICAO international phonetic alphabet (Alpha, Bravo, Charlie...) or the Russian aviation radio alphabet (Анна, Борис, Василий...).
 This article presents such an alphabet for the Kazakh language. Whenever possible, letters are referred to by common proper names.
 
 Иногда бывает важно сообщить собеседнику правильное написание слова в устной беседе, по телефону или по радио.
-Для этого в языках составлены специальные алфавиты. Например, Международный фонетический алфавит ИКАО (Alfa, Bravo, Charlie...) или русский авиационный радиоалфавит (Анна, Борис, Василий...)
+Для этого в языках составлены специальные алфавиты. Например, Международный фонетический алфавит ИКАО (Alfa, Bravo, Charlie...) или русский авиационный радиоалфавит (Анна, Борис, Василий...).
 В этой статье предлагается подобный алфавит для казахзского языка. По возможности буквы именуются распространёнными именами собственными. 
 
 № | Әріп | Аты | Сәйкес сөз
@@ -60,4 +58,4 @@ This article presents such an alphabet for the Kazakh language. Whenever possibl
 42	 | 	Я	 | 	йа	 | 	Аяндағы "йа"
 
   
-
+<https://qazaqtili.github.io>
