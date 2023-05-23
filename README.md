@@ -5,19 +5,16 @@
 ### Казахский фонетический радиотелефонный алфавит
 
 Кейде екінші адаммен әңгімелесуде, телефонда немесе радиода сөйлесуде сөздің дұрыс айтылуы мен жазылуы маңызды.
-Осы мақсатта бірнеше тілдерде арнайы әліпбилер құрастырылған. Мысалы, ICAO халықаралық фонетикалық емле әліпбиі (Alfa, Bravo, Charlie...) немесе Ресей авиациялық радио алфавиті (Анна, Борис, Василий...).
+Осы мақсатта бірнеше тілдерде арнайы әліпбилер құрастырылған. Мысалы, ICAO/NATO халықаралық фонетикалық емле әліпбиі (Alfa, Bravo, Charlie...) немесе Ресей авиациялық радио алфавиті (Анна, Борис, Василий...).
 Бұл мақалада қазақ тіліне осындай әліпби үлгісін ұсынылып отыр. Мүмкіндігінше, әріптер жалқы есімдермен аталады.
-Жаңа латын әліпбиінің нұсқасы кейінірек ұсынылады.
 
 Sometimes it is important to tell the other person the correct spelling of a word in a spoken conversation, on the phone or on the radio.
-For this purpose, special alphabets have been created for different languages. For example, the ICAO international phonetic alphabet (Alfa, Bravo, Charlie...) or the Russian aviation radio alphabet (Анна, Борис, Василий...).
+For this purpose, special alphabets have been created for different languages. For example, the ICAO/NATO international phonetic alphabet (Alfa, Bravo, Charlie...) or the Russian aviation radio alphabet (Анна, Борис, Василий...).
 This article presents such an alphabet for the Kazakh language. Whenever possible, letters are referred to by common proper names.
-A version for the new Latin alphabet will be presented soon.
 
 Иногда бывает важно сообщить собеседнику правильное написание слова в устной беседе, по телефону или по радио.
-Для этого в языках составлены специальные алфавиты. Например, Международный фонетический алфавит ИКАО (Alfa, Bravo, Charlie...) или русский авиационный радиоалфавит (Анна, Борис, Василий...).
+Для этого в языках составлены специальные алфавиты. Например, Международный фонетический алфавит ИКАО/НАТО (Alfa, Bravo, Charlie...) или русский авиационный радиоалфавит (Анна, Борис, Василий...).
 В этой статье предлагается подобный алфавит для казахзского языка. По возможности буквы именуются распространёнными именами собственными. 
-Версия для нового латинского алфавита будет представлена далее.
 
 #### Сәрсен Аманжолов ұсынған кирил әліпбиі  
 
@@ -104,8 +101,57 @@ A version for the new Latin alphabet will be presented soon.
 30	 | 	Y	 | 	Ы	 | 	Ybyrai
 31	 | 	Z	 | 	З	 | 	Zamanbek
 
+#### ICAO international phonetic alphabet (radiotelephone spelling alphabet)
+
+Álfa, Brávo, Chárlie, Délta, Écho,
+Fóxtrot, Gólf, Hotél, Índia, Júliet,  
+Kílo, Líma, Mike, Novémber, Óscar,
+Papá, Quebéc, Rómeo, Siérra, Tángo,  
+Úniform, Víctor, Whískey, X-ray, Yánkee,
+Zúlu  
+
+#### Русский авиационный радиоалфавит
+
+А́нна, 
+Бори́с, 
+Васи́лий, 
+Григо́рий, 
+Дми́трий, 
+Еле́на, 
+ёлка, 
+Же́ня, 
+Зинаи́да, 
+Ива́н,  
+Ива́н кра́ткий, 
+Константи́н, 
+Леони́д, 
+Михаи́л, 
+Никола́й, 
+О́льга, 
+Па́вел, 
+Рома́н, 
+Семён, 
+Татья́на,  
+Улья́на, 
+Фёдор, 
+Харито́н, 
+ца́пля, 
+челове́к, 
+Шу́ра, 
+щу́ка, 
+твёрдый знак, 
+еры́, 
+мя́гкий знак,  
+э́хо, 
+Ю́рий, 
+Я́ков  
+
+
 #### Дереккөздер / References / Источники
-Wikipedia <https://en.wikipedia.org/wiki/Kazakh_alphabets>  
+Wikipedia:  
+<https://en.wikipedia.org/wiki/Kazakh_alphabets>  
+<https://en.wikipedia.org/wiki/NATO_phonetic_alphabet>  
+<https://ru.wikipedia.org/wiki/Фонетический_алфавит>
   
 "Kazakhstan Presents New Latin Alphabet, Plans Gradual Transition Through 2031". Astana Times. February 2021  
 <https://astanatimes.com/2021/02/kazakhstan-presents-new-latin-alphabet-plans-gradual-transition-through-2031/>  
@@ -114,4 +160,5 @@ Wikipedia <https://en.wikipedia.org/wiki/Kazakh_alphabets>
   
 ---  
 <https://qazaqtili.github.io>  
-202305231535
+Л.А.Панченко, А.У.Ташпулатова  
+2023-05-23-1630
