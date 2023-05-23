@@ -38,7 +38,7 @@ This article presents such an alphabet for the Kazakh language. Whenever possibl
 16	 | 	Л	 | 	ле	 | 	Лейла
 17	 | 	М	 | 	ме	 | 	Марат
 18	 | 	Н	 | 	не	 | 	Нұрлан
-19	 | 	Ң	 | 	ең	 | 	Шыңғыздағы "ең"
+19	 | 	Ң	 | 	ең	 | 	Шыңғыстағы "ең"
 20	 | 	О	 | 	о	 | 	Олжас
 21	 | 	Ө	 | 	ө	 | 	Өркен
 22	 | 	П	 | 	пе	 | 	Перизат
@@ -85,7 +85,7 @@ This article presents such an alphabet for the Kazakh language. Whenever possibl
 14	 | 	L	 | 	Л	 | 	Leila
 15	 | 	M	 | 	М	 | 	Marat
 16	 | 	N	 | 	Н	 | 	Nūrlan
-17	 | 	Ñ	 | 	Ң	 | 	Şyñğyzdağy "eñ"
+17	 | 	Ñ	 | 	Ң	 | 	Şyñğystağy "eñ"
 18	 | 	O	 | 	О	 | 	Oljas
 19	 | 	Ö	 | 	Ө	 | 	Örken
 20	 | 	P	 | 	П	 | 	Perizat
