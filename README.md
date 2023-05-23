@@ -160,6 +160,6 @@ Wikipedia:
   
 ---  
 <https://qazaqtili.github.io>  
-Л.А.Панченко, А.У.Ташпулатова  
+L.A.Panchenko, A.U.Tashpulatova  
 You are welcome to share your suggestions by opening an issue at <https://github.com/qazaqtili/qazaqtili.github.io/issues>  
-2023-05-23-1710
+2023-05-23-2320
