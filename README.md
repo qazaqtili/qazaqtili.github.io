@@ -6,7 +6,7 @@
 
 Кейде екінші адаммен әңгімелесуде, телефонда немесе радиода сөйлесуде сөздің дұрыс айтылуы мен жазылуы маңызды.
 Осы мақсатта бірнеше тілдерде арнайы әліпбилер құрастырылған. Мысалы, ICAO/NATO халықаралық фонетикалық емле әліпбиі (Alfa, Bravo, Charlie...) немесе Ресей авиациялық радио алфавиті (Анна, Борис, Василий...).
-Бұл мақалада қазақ тіліне осындай әліпби үлгісін ұсынылып отыр. Мүмкіндігінше, әріптер жалқы есімдермен аталады.
+Бұл мақалада қазақ тіліне осындай әліпби үлгісі ұсынылып отыр. Мүмкіндігінше, әріптер кеңінен тараған жалқы есімдермен аталады.
 
 Sometimes it is important to tell the other person the correct spelling of a word in a spoken conversation, on the phone or on the radio.
 For this purpose, special alphabets have been created for different languages. For example, the ICAO/NATO international phonetic alphabet (Alfa, Bravo, Charlie...) or the Russian aviation radio alphabet (Анна, Борис, Василий...).
@@ -161,4 +161,4 @@ Wikipedia:
 ---  
 <https://qazaqtili.github.io>  
 Л.А.Панченко, А.У.Ташпулатова  
-2023-05-23-1630
+2023-05-23-1650
