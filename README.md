@@ -1,12 +1,12 @@
 ## Қазақ фонетикалық радиосы телефонының дыбыс жазуға арналған әріп-сөз әліпбиі
 
 Кейде екінші адаммен әңгімелесуде, телефонда немесе радиода сөйлесуде сөздің дұрыс айтылуы мен жазылуы маңызды.
-Осы мақсатта бірнеше тілдерде арнайы әліпбилер құрастырылған. Мысалы, ICAO халықаралық фонетикалық емле әліпбиі (Alpha, Bravo, Charlie...) немесе Ресей авиациялық радио алфавиті (Анна, Борис, Василий...).
+Осы мақсатта бірнеше тілдерде арнайы әліпбилер құрастырылған. Мысалы, ICAO халықаралық фонетикалық емле әліпбиі (Alfa, Bravo, Charlie...) немесе Ресей авиациялық радио алфавиті (Анна, Борис, Василий...).
 Бұл мақалада қазақ тіліне осындай әліпби үлгісін ұсынылып отыр. Мүмкіндігінше, әріптер жалқы есімдермен аталады.
 Жаңа латын әліпбиінің нұсқасы кейінірек ұсынылады.
 
 Sometimes it is important to tell the other person the correct spelling of a word in a spoken conversation, on the phone or on the radio.
-For this purpose, special alphabets have been created for different languages. For example, the ICAO international phonetic alphabet (Alpha, Bravo, Charlie...) or the Russian aviation radio alphabet (Анна, Борис, Василий...).
+For this purpose, special alphabets have been created for different languages. For example, the ICAO international phonetic alphabet (Alfa, Bravo, Charlie...) or the Russian aviation radio alphabet (Анна, Борис, Василий...).
 This article presents such an alphabet for the Kazakh language. Whenever possible, letters are referred to by common proper names.
 A version for the new Latin alphabet will be presented soon.
 
@@ -110,4 +110,4 @@ Wikipedia <https://en.wikipedia.org/wiki/Kazakh_alphabets>
   
 ---  
 <https://qazaqtili.github.io>  
-202305230912
+202305231523
