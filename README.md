@@ -75,7 +75,7 @@ A version for the new Latin alphabet will be presented soon.
 5	 | 	E	 | 	Е	 | 	Erjan
 6	 | 	F	 | 	Ф	 | 	Fatima
 7	 | 	G	 | 	Г	 | 	Gülmira
-8	 | 	Ğ	 | 	Ғ	 | 	Ğaliya
+8	 | 	Ğ	 | 	Ғ	 | 	Ğalia
 9	 | 	H	 | 	Х, Һ	 | 	Hasan
 10	 | 	I ı	 | 	І	 | 	Iñkär
 11	 | 	İ i	 | 	Й, И	 | 	İbrahim
@@ -110,4 +110,4 @@ Wikipedia <https://en.wikipedia.org/wiki/Kazakh_alphabets>
   
 ---  
 <https://qazaqtili.github.io>  
-202305222131
+202305230912
