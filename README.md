@@ -161,4 +161,5 @@ Wikipedia:
 ---  
 <https://qazaqtili.github.io>  
 Л.А.Панченко, А.У.Ташпулатова  
+You are welcome to share your suggestions by opening an issue at <https://github.com/qazaqtili/qazaqtili.github.io/issues>  
 2023-05-23-1710
