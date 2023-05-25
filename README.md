@@ -67,39 +67,40 @@ This article presents such an alphabet for the Kazakh language. Whenever possibl
 
 #### Жаңа латын әліпбиі (2021)
 
-№ | Латын | Кирил | Сәйкес сөз
-:---: | :---: | :---: | :---
-1	 | 	A	 | 	А	 | 	Azamat
-2	 | 	Ä	 | 	Ә	 | 	Ädıl
-3	 | 	B	 | 	Б	 | 	Baqytjan
-4	 | 	D	 | 	Д	 | 	Dinara
-5	 | 	E	 | 	Е	 | 	Erjan
-6	 | 	F	 | 	Ф	 | 	Fatima
-7	 | 	G	 | 	Г	 | 	Gülmira
-8	 | 	Ğ	 | 	Ғ	 | 	Ğalia
-9	 | 	H	 | 	Х, Һ	 | 	Hasan
-10	 | 	İ i	 | 	Й, И	 | 	İbrahim
-11	 | 	I ı	 | 	І	 | 	Iñkär
-12	 | 	J	 | 	Ж	 | 	Jandos
-13	 | 	K	 | 	К	 | 	Kämşat
-14	 | 	L	 | 	Л	 | 	Leila
-15	 | 	M	 | 	М	 | 	Marat
-16	 | 	N	 | 	Н	 | 	Nūrlan
-17	 | 	Ñ	 | 	Ң	 | 	Şyñğys-tağy "eñ"
-18	 | 	O	 | 	О	 | 	Oljas
-19	 | 	Ö	 | 	Ө	 | 	Örken
-20	 | 	P	 | 	П	 | 	Perizat
-21	 | 	Q	 | 	Қ	 | 	Qanat
-22	 | 	R	 | 	Р	 | 	Rüstem
-23	 | 	S	 | 	С	 | 	Sultan
-24	 | 	Ş	 | 	Ш	 | 	Şerhan
-25	 | 	T	 | 	Т	 | 	Talğat
-26	 | 	U	 | 	У	 | 	Uälihan
-27	 | 	Ū	 | 	Ұ	 | 	Ūlan
-28	 | 	Ü	 | 	Ү	 | 	Üsen
-29	 | 	V	 | 	В	 | 	Viktor
-30	 | 	Y	 | 	Ы	 | 	Ybyrai
-31	 | 	Z	 | 	З	 | 	Zamanbek
+№	 | 	Латын	 | 	Кирил	 | 	Аты	 | 	Сәйкес сөз
+:-:	 | 	:-:	 | 	:-:	 | 	:-:	 | 	:-
+1	 | 	A	 | 	А	 | 	а	 | 	Azamat
+2	 | 	Ä	 | 	Ә	 | 	ә	 | 	Ädıl
+3	 | 	B	 | 	Б	 | 	бы	 | 	Baqytjan
+4	 | 	D	 | 	Д	 | 	ды	 | 	Dinara
+5	 | 	E	 | 	Е	 | 	е	 | 	Erjan
+6	 | 	F	 | 	Ф	 | 	фы	 | 	Fatima
+7	 | 	G	 | 	Г	 | 	гі	 | 	Gülmira
+8	 | 	Ğ	 | 	Ғ	 | 	ғы	 | 	Ğalia
+9	 | 	H	 | 	Х, Һ	 | 	һы	 | 	Hasan
+10	 | 	İ i	 | 	Й, И	 | 	ій	 | 	İbrahim
+11	 | 	I ı	 | 	І	 | 	і	 | 	Iñkär
+12	 | 	J	 | 	Ж	 | 	жы	 | 	Jandos
+13	 | 	K	 | 	К	 | 	кі	 | 	Kämşat
+14	 | 	L	 | 	Л	 | 	ыл	 | 	Leila
+15	 | 	M	 | 	М	 | 	мы	 | 	Marat
+16	 | 	N	 | 	Н	 | 	ны	 | 	Nūrlan
+17	 | 	Ñ	 | 	Ң	 | 	ың	 | 	Şyñğys-tağy "yñ"
+18	 | 	O	 | 	О	 | 	о	 | 	Oljas
+19	 | 	Ö	 | 	Ө	 | 	ө	 | 	Örken
+20	 | 	P	 | 	П	 | 	пы	 | 	Perizat
+21	 | 	Q	 | 	Қ	 | 	қы	 | 	Qanat
+22	 | 	R	 | 	Р	 | 	ыр	 | 	Rüstem
+23	 | 	S	 | 	С	 | 	сы	 | 	Sultan
+24	 | 	Ş	 | 	Ш	 | 	шы	 | 	Şerhan
+25	 | 	T	 | 	Т	 | 	ты	 | 	Talğat
+26	 | 	U	 | 	У	 | 	ұу	 | 	Uälihan
+27	 | 	Ū	 | 	Ұ	 | 	ұ	 | 	Ūlan
+28	 | 	Ü	 | 	Ү	 | 	ү	 | 	Üsen
+29	 | 	V	 | 	В	 | 	вы	 | 	Viktor
+30	 | 	Y	 | 	Ы	 | 	ы	 | 	Ybyrai
+31	 | 	Z	 | 	З	 | 	зы	 | 	Zamanbek
+
 
 #### ICAO international phonetic alphabet (radiotelephone spelling alphabet)
 
@@ -165,4 +166,4 @@ Wikipedia:
 <https://qazaqtili.github.io>  
 L.A.Panchenko, A.U.Tashpulatova  
 You are welcome to share your suggestions by opening an issue at <https://github.com/qazaqtili/qazaqtili.github.io/issues>  
-2023-05-25-1600
+2023-05-25-1800
