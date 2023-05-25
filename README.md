@@ -153,6 +153,8 @@ Wikipedia:
 <https://en.wikipedia.org/wiki/Kazakh_alphabets>  
 <https://en.wikipedia.org/wiki/NATO_phonetic_alphabet>  
 <https://ru.wikipedia.org/wiki/Фонетический_алфавит>
+
+<https://web.archive.org/web/20180902131451/http://pobukvam.org/alphabets>
   
 "Kazakhstan Presents New Latin Alphabet, Plans Gradual Transition Through 2031". Astana Times. February 2021  
 <https://astanatimes.com/2021/02/kazakhstan-presents-new-latin-alphabet-plans-gradual-transition-through-2031/>  
