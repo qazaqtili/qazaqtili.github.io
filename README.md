@@ -78,8 +78,8 @@ This article presents such an alphabet for the Kazakh language. Whenever possibl
 7	 | 	G	 | 	Г	 | 	Gülmira
 8	 | 	Ğ	 | 	Ғ	 | 	Ğalia
 9	 | 	H	 | 	Х, Һ	 | 	Hasan
-10	 | 	I ı	 | 	І	 | 	Iñkär
-11	 | 	İ i	 | 	Й, И	 | 	İbrahim
+10	 | 	İ i	 | 	Й, И	 | 	İbrahim
+11	 | 	I ı	 | 	І	 | 	Iñkär
 12	 | 	J	 | 	Ж	 | 	Jandos
 13	 | 	K	 | 	К	 | 	Kämşat
 14	 | 	L	 | 	Л	 | 	Leila
@@ -155,11 +155,14 @@ Wikipedia:
   
 "Kazakhstan Presents New Latin Alphabet, Plans Gradual Transition Through 2031". Astana Times. February 2021  
 <https://astanatimes.com/2021/02/kazakhstan-presents-new-latin-alphabet-plans-gradual-transition-through-2031/>  
+
+"Новый казахский алфавит на латинице: представлен проект указа Президента". Опубликовано 22 апреля 2021
+<https://tengrinews.kz/kazakhstan_news/novyiy-kazahskiy-alfavit-latinitse-predstavlen-proekt-ukaza-435370/>
   
-Мусаев Кенесбай Мусаевич Казахский язык: учебник / К.М. Мусаев ; Институт стран Азии и Африки МГУ имени М.В.Ломоносова. - Москва : Восточная литература, 2008. - 367 с. - ISBN 978-5-02-036363-2  
+Мусаев Кенесбай Мусаевич Казахский язык: учебник / К.М. Мусаев ; Институт стран Азии и Африки МГУ имени М.В.Ломоносова. - Москва : Восточная литература РАН, 2008. - 367 с. - ISBN 978-5-02-036363-2  
   
 ---  
 <https://qazaqtili.github.io>  
 L.A.Panchenko, A.U.Tashpulatova  
 You are welcome to share your suggestions by opening an issue at <https://github.com/qazaqtili/qazaqtili.github.io/issues>  
-2023-05-23-2320
+2023-05-25-1600
